@@ -1,15 +1,14 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
+  "main": "Введение",
+  "features": "Механики и фишки",
+  "Home": {
+    "title": "Главная",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
+  "Rules": {
+    "title": "Правила",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://nekocorp.gq/rules",
     "newWindow": true
   }
 }
