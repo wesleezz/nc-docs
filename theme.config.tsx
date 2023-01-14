@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>NC - Вики</span>,
   project: {
     link: 'https://github.com/shuding/nextra-docs-template',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://dsc.gg/nekocorp',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/wesleezz/nc-docs',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Вики нк',
   },
 }
 
