@@ -5,4 +5,4 @@
 # Можна сказать сайт вики нк
  [[Жми, чтобы посмотреть сайт]](https://docs.nekocorp.gq)
 
-Сделал [Визя](https://t.me/wesleezz) проект сделан на [Next.js](https://nextjs.org) он будет развиваться
+Сделал [Визя](https://t.me/wesleezz) проект сделан на [Nextra](https://nextra.site) он будет развиваться
