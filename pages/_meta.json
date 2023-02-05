@@ -4,11 +4,11 @@
   "Home": {
     "title": "Главная",
     "type": "page"
+    "href": "https://nekocorp.gq"
   },
   "Rules": {
     "title": "Правила",
     "type": "page",
     "href": "https://nekocorp.gq/rules",
-    "newWindow": true
   }
 }
